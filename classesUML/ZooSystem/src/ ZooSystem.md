@@ -19,6 +19,6 @@ Using the polymorphism model, design a class diagram to handle the situation des
 <details>
 <summary>Zoo UML System Class Diagram</summary>
 <a href="https://github.com/cengarm" target="_blank">
-    <img src="https://github.com/cengarm/HomeWorks-Patika/blob/main/README.md" alt="Zoo UML System" title="Zoo UML System" />
+    <img src="https://github.com/cengarm/HomeWorks-Patika/blob/main/README.md" />
 </a>
 </details>
