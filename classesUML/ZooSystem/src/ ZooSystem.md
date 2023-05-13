@@ -1,0 +1,24 @@
+# 🐯 Zoo UML System
+You design a system to track information about animals in a zoo.
+
+Animals:
+
+- Horses (horses, zebras, donkeys, etc.),
+- Felines (tigers, lions, etc.),
+- It is characterized by species in groups such as rodents (rats, beavers, etc.).
+- Most of the information stored about animals is the same for all groupings.
+- Species name, weight, age, etc. 
+
+The system should also be able to get the dosage of specific drugs for each animal => getDosage() System should be able to calculate Feed times => getFeedSchedule() 
+The logic for the system to perform these functions will be different for each grouping. For example, the feeding algorithm will be different for horses and different for tigers.
+
+Using the polymorphism model, design a class diagram to handle the situation described above.
+
+---
+
+<details>
+<summary>Zoo UML System Class Diagram</summary>
+<a href="https://github.com/cengarm" target="_blank">
+    <img src="https://raw.githubusercontent.com/TriTetra/RepositoryUML/main/UML/Animals.png" alt="Zoo UML System" title="Zoo UML System" />
+</a>
+</details>
