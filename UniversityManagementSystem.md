@@ -15,8 +15,8 @@ Note: It is not necessary to specify the attributes and behaviors of the classes
 ---
 
 <details>
-<summary>University Management System Class Diagram</summary>
-<a href="https://app.gleek.io/diagrams/DCrRJ5uV2JiewPUuzPUpNg" target="_blank">
+<summary>University Management System Class Diagram</summary>  
+<a href="https://github.com/cengarm/HomeWorks-Patika/blob/main/README.md" target="_blank">
     <img src="https://sketchertest.blob.core.windows.net/previewimages/DCrRJ5uV2JiewPUuzPUpNg.png" alt="University Management System" title="University Management System" />
 </a>
 </details>
